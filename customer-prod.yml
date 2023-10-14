@@ -1,0 +1,10 @@
+conatct:
+  message: "This contact is related to customer production ralted issues"
+  contactDetails:
+    name: sai.devireddy  
+    email: sai@gmail.com
+  contactNumber:
+  - 7207413645
+  - 8765678777
+build:
+  version: 1.3
